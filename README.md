@@ -10,7 +10,7 @@ The Floyd-Warshall algorithm is a dynamic programming algorithm that computes sh
 
 - `floyd_warshall.c`: Contains the C code for the Floyd-Warshall algorithm.
 
-- `Readme.md`: Information about the Repository.
+- `README.md`: Information about the Repository.
 
 
 
